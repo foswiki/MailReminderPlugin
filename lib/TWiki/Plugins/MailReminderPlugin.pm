@@ -28,7 +28,7 @@ package TWiki::Plugins::MailReminderPlugin;
 use vars qw( $web $topic $user $installWeb $VERSION $RELEASE $Name_g $rem_g $email_g
 	    $libsLoaded $libsError $defaultsInitialized $file_path %defaults );
 
-$VERSION    = '$Rev: 6827 $';
+$VERSION    = '$Rev$';
 
 $libsLoaded = 0;
 $libsError  = 0;
